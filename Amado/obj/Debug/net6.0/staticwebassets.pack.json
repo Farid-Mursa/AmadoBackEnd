@@ -405,6 +405,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\js\\ImageAdd.js"
     },
     {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\admin\\assets\\js\\ImageDelete.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ImageDelete.js"
+    },
+    {
       "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\admin\\assets\\js\\common-pages.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\common-pages.min.js"
     },
@@ -4071,46 +4075,6 @@
     {
       "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\core-img\\search.png",
       "PackagePath": "staticwebassets\\img\\core-img\\search.png"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\pro-big-1.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\pro-big-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\pro-big-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\pro-big-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\pro-big-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\pro-big-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\pro-big-4.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\pro-big-4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\product1.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\product1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\product2.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\product2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\product3.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\product3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\product4.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\product4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\product5.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\product5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\img\\product-img\\product6.jpg",
-      "PackagePath": "staticwebassets\\img\\product-img\\product6.jpg"
     },
     {
       "Id": "C:\\Users\\kzeyn\\source\\repos\\Amado\\Amado\\wwwroot\\js\\active.js",
